@@ -63,4 +63,4 @@ After this, we use an algorithmic approach to find out all the relevant numbers 
 *   ColorThief (for finding dominant colors)
 *   Matplotlib (for plotting HR graphs)
 *   Deskew (for deskewing the original images)
-*   NueroKit2 (for displaying HR graph from Heart rate)
+*   NeuroKit2 (for displaying HR graph from Heart rate)
